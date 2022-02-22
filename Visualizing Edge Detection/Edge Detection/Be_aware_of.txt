@@ -1,0 +1,3 @@
+Be aware of:
+
+-Commented out line 27 in glad.h where a #error was generated

@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLWindow.vcxproj, Visualizing Primitives.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  include_stb_image.cpp
+  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(90,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(113,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(160,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(161,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(165,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(166,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(168,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(169,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Visualizing Primitives\OpenGLWindow\window_main.cpp(178,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGL Model Visualization Tool\x64\Debug\Visualizing Primitives.exe not found or not built by the last incremental link; performing full link
+  VisualizingPrimitives.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\OpenGL Model Visualization Tool\x64\Debug\Visualizing Primitives.exe
